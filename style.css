@@ -70,14 +70,14 @@ h3{
 .top-cloud{
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 40px;
 }
 
 
 .bottom-cloud{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 280px;
+  bottom: 250px;
 
 }
 
